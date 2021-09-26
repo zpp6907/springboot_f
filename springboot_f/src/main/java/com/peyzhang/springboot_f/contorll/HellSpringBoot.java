@@ -1,4 +1,4 @@
-package com.peyzhang.springboot_f;
+package com.peyzhang.springboot_f.contorll;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
